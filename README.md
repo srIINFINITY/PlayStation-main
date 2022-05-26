@@ -4,7 +4,6 @@
  🎮 PlayStation Control 🎮
 </h1>
 
-<br>
 
 <h2 align="center">⸻⸻ Uma loja da Playstation para vendas de controles. ⸻⸻
 <br> <p>Resultado: https://playstation-4.vercel.app/</p>
